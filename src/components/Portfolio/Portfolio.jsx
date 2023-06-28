@@ -3,8 +3,8 @@ import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
 import Sidebar from "../../img/sidebar.png";
-import Ecommerce from "../../img/ecommerce.png";
-import HOC from "../../img/hoc.png";
+import Ecommerce from "../../img/react.jpg";
+import HOC from "../../img/hoc.jpg";
 import MusicApp from "../../img/musicapp.png";
 import { themeContext } from "../../Context";
 const Portfolio = () => {
